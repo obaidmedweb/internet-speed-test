@@ -95,5 +95,5 @@ Contributions are welcome! If you have suggestions for improvement or new featur
 
 ## Author
 
-Developed by [Your Name](https://github.com/obaidmedweb).
+Developed by (https://github.com/obaidmedweb).
 
